@@ -1,1 +1,2 @@
 TO jest linijka tekstu w master branch.
+TO jest linijka tekst w first_branch.
